@@ -1,0 +1,23 @@
+.look {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.header {
+    font-size: 30px;
+}
+
+.recipes {
+    font-size: 15px;
+}
